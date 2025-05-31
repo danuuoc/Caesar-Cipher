@@ -77,9 +77,10 @@ Decrypted: PROJECT DONE
 ---
 
 ## 👨‍💻 Contributors
-- John Silva (S1234567)
-- Aruni Perera (S7654321)
-- Nimal De Alwis (S2345678)
+- 2022t01539  - Gayantha Gimhana
+- 2022t01548 -   Danushka Lakshan
+- 2022t01576 -   Nethmin Kavindu Gimhan
+
 
 ---
 
